@@ -1,5 +1,6 @@
 # blog_service
-wordpress通用博客爬虫
+wordpress通用博客爬虫  
+
 mongodb+webflux+jsoup+springboot+java17+jpa
 
 爬虫会遍历整个博客网站链接，对链接内容循环分析和爬取。  
